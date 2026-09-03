@@ -1,25 +1,17 @@
 # Getting Started
-Welcome to our product documentation.
-## Before you begin
-Make sure you have an active account.
-## Next steps
-Continue with the installation guide.
 
+## Before You Begin
 
+Before you start using the note-taking application, make sure you have an active user account, an internet connection, and a supported web browser.
 
-list of order 
-1. step 1   
-    a. step 1   
-    b. step 3   
-    
-    c. 
+- An active user account
+- Internet access
+- A supported web browser
 
+## Create Your First Notebook
 
-2. step2
-3. step3
-4. step4
+Sign in to the application and select **New Notebook** to create your first notebook. Enter a name for your notebook and save it.
 
+## Next Steps
 
-> **Note:** 
-> > **Tip:**
->
+After creating your first notebook, you can add notes and organize them into sections. You can also share your notes with other users.
