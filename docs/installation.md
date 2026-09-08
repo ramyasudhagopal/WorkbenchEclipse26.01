@@ -1,4 +1,6 @@
 This guide explains how to install the product.
+
+> **Note:** Second review
  
 ## Prerequisites
  
