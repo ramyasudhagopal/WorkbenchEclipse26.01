@@ -1,6 +1,6 @@
 ﻿# User Guide
 
-## Overview
+## Overview of the User Guide
 
 Welcome to Workbench Eclipse. This guide explains how to get started, configure the application, and use its main features.
 
